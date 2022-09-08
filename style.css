@@ -380,6 +380,7 @@ main{
 }
 .fa-cart-shopping {
 			font-size: 26px;
+			margin-top: 5px;
 			color: var(--Logo-orange);
 			text-decoration: none;
 }
